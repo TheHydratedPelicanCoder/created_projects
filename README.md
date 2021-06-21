@@ -1,4 +1,5 @@
-# Real Python Materials
+# Glory's Python materials
+Most(if not all) of the materials used in this repository are not created by me.
 
 Bonus materials, exercises, and example projects for Real Python's [Python tutorials](https://realpython.com).
 
